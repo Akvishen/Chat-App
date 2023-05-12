@@ -1,6 +1,6 @@
 # Chat-App  Abhishek Kumar vishen
 
-# This application built using Node.js, Express, Socket.io, Firebase, RESTful Web Service.
+# This application built using Socket.io, Firebase, RESTful Web Service.
 Features
 Uses Express as the application Framework.
 Real-time communication between a client and a server using Socket.io.
